@@ -1,0 +1,15 @@
+{
+	"google":
+	{
+		"baseUrl": "https://www.googleapis.com/customsearch/v1",
+		"apiKey": "AIzaSyDpSbHXK7JdKFz7XHL91hTopD3MleUXZ8c",
+		"cx": "017576662512468239146:omuauf_lfve"
+	},
+	"twitter":
+	{
+		"CONSUMER_KEY":"ZlsQLrT9G9W3ovkET0U2DFWD4",
+		"CONSUMER_SECRET":"HHfHR7dV3kSeHEG5G29kLcM778FmCu0Jc465GcgDLEWEvbndid",
+		"OAUTH_TOKEN":"3080389663-XYC7gO41HRn2oESL2Mwnd6GxFkcvV6w1ecxg25H",
+		"OAUTH_TOKEN_SECRET":"4u5ESgi60jF4i7Va4Nd9hKSYPCVKGiqPDyrsxFd6xLDfd"
+	}
+}
